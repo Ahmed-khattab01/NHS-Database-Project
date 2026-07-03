@@ -1,0 +1,2 @@
+CREATE DATABASE NHS_Database;
+USE NHS_Database;
